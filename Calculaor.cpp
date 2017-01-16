@@ -12,7 +12,7 @@ int main()
 	cout << endl << endl ;"Type The Function You Would like to run";
 	int choice;
 	cin choice;
-	if (choice = "1") {
+	if (choice == "1") {
 		cout<< "Input First Number" << endl;
 		int x; 
 		cin x;
