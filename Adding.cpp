@@ -16,5 +16,8 @@ int main()
 	int ans; //Declare ans as a varible
 	ans = num2 + num; //Set ans value to num + num2
 	cout << "Answer Is, "<< ans; //Display a answer
+	cout << "Press Enter To Terminate The Program";
+	int cont;
+	cin >> cont;
 	return 0;
 }
