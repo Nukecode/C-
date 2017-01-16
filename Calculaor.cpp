@@ -24,6 +24,6 @@ int main()
 		cout << "Sum =" << sum << endl;
 		cout << "Press any key then enter too terminate"
 		
-	}
+	}	
 	
 }
